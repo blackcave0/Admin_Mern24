@@ -1,7 +1,9 @@
 
 const About = () => {
   return (
-    <div>About</div>
+    <>
+      some this new idea for github
+    </>
   )
 }
 
